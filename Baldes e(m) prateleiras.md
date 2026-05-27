@@ -9,7 +9,7 @@ Terça, 26 de maio de 2026
 
   Desse jeito comecei a pensar, trazendo meu primeiro "protótipo":
 ```txt
-"B#0 = + 1 $\Leftrightarrow$ Posição do Bucket"
+"B#0 = + 1 ⇔ Posição do Bucket"
 ```
   Surgindo minha primeira fórmula informal - e errada.
   
